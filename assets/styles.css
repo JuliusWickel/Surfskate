@@ -8,7 +8,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
-    background-color: linear-gradient(to bottom, #ffe29e, #ffdd99, #99ccff, #00aaff);
+    background: linear-gradient(to bottom, #ffe29e, #ffdd99, #99ccff, #00aaff); /* Komplexerer Verlauf */
     padding: 20px;
     margin: 0;
 }
