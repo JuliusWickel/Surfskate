@@ -10,6 +10,7 @@ body {
     color: #333;
     background-color: linear-gradient(to bottom, #ffe29e, #ffdd99, #99ccff, #00aaff);
     padding: 20px;
+    margin: 0;
 }
 
 header {
