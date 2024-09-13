@@ -71,3 +71,10 @@ footer {
     background-color: #00aaff;
     color: white;
 }
+
+.retreat-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+}
