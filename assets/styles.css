@@ -43,7 +43,7 @@ h1 {
 .highlights, .why-participate, .info {
     margin: 40px 0;
     padding: 20px;
-    background-color: #fff;
+    background-color: transparent;
     border-radius: 5px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
