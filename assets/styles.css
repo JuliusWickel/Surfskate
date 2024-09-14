@@ -99,3 +99,25 @@ nav a {
 nav a:hover {
     background-color: #0088cc;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1.1em;
+    text-align: left;
+}
+
+table th, table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+
+table th {
+    background-color: #00aaff;
+    color: white;
+}
+
+table tr:nth-child(even) {
+    background-color: #f4f4f4;
+}
